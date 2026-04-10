@@ -3,4 +3,4 @@
 
 Курс на Stepik: https://stepik.org/course/129449
 
-[![Code style: black](/images/Pierian_Data_Logo.png)](https://github.com/psf/black)
+[![Code style: black](Pierian_Data_Logo.png)](https://github.com/psf/black)
